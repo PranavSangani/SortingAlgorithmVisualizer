@@ -1,1 +1,1 @@
-https://pranav-sangani.github.io/SortingAlgorithmVisualizer/
+https://pranavsangani.github.io/SortingAlgorithmVisualizer/
