@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pranav-sangani.github.io/SortingAlgorithmVisualizer/",
+  "homepage": "https://pranavsangani.github.io/SortingAlgorithmVisualizer/",
   "name": "sortingalgorithmvisualizer",
   "version": "0.1.0",
   "private": true,
@@ -38,7 +38,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "resolutions": {
-  "nth-check": "^2.0.1"
+  "overrides": {
+    "nth-check": "^2.0.1"
   }
 }
